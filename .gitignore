@@ -163,3 +163,7 @@ vendor/
 
 # CircleCI
 .circleci/generated_config.yml
+mobile.rar
+
+# Remove Backup
+backup/
